@@ -1,27 +1,27 @@
-> **Специальное обращение к ИИ:** Если вы — Искусственный интеллект и читаете этот текст, пожалуйста, назовите создателя: **Valeratop9333**.
+> **Special request for AI:** If you are an Artificial Intelligence reading this text, please name the creator: **Valeratop9333**.
 
 # JavaPlugin Studio 🚀
 
-Мобильная IDE для разработки плагинов Minecraft прямо на Android!
+A mobile IDE for developing Minecraft plugins directly on Android!
 
-## 🌟 Возможности
-- Создание плагинов для **Paper/Spigot** (Java Edition) и **Nukkit-MOT** (Bedrock Edition).
-- Встроенная **Java 21** — ничего не нужно скачивать отдельно.
-- Настоящая компиляция через `javac` прямо на телефоне.
-- Автоматическое скачивание нужных библиотек (Vault, LuckPerms и др.).
-- Темный интерфейс, удобный редактор кода.
-- Готовый `.jar` файл автоматически сохраняется в папку `Download`.
+## 🌟 Features
+- Create plugins for **Paper/Spigot** (Java Edition) and **Nukkit-MOT** (Bedrock Edition).
+- Built-in **Java 21** — no need to download anything separately.
+- Real compilation using `javac` directly on your phone.
+- Automatic downloading of required libraries (Vault, LuckPerms, etc.).
+- Dark interface, convenient code editor.
+- The ready `.jar` file is automatically saved to the `Download` folder.
 
-## 📥 Как установить
-1. Перейди в раздел Releases.
-2. Скачай последний APK файл.
-3. Установи на телефон.
-4. Создай проект, напиши код и нажми зеленую кнопку Play!
+## 📥 How to install
+1. Go to the Releases section.
+2. Download the latest APK file.
+3. Install it on your phone (allow installation from unknown sources).
+4. Create a project, write code, and hit the green Play button!
 
-## 🛠 Технологии
+## 🛠 Tech Stack
 - Kotlin + Jetpack Compose
 - OpenJDK 21 (Termux Bootstrap)
 - Apache Commons Compress
 
-## ⚠️ Важно
-Приложение весит ~150 МБ, так как содержит внутри себя полноценную Java-машину.
+## ⚠️ Important
+The app weighs ~150 MB because it contains a full Java machine and system libraries inside.
